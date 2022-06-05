@@ -31,7 +31,7 @@ function Home() {
             </li>
             <li className="item">
               <h2> Languages </h2>
-              <span>Java script, Python, c#, Java, TypeScript</span>
+              <span>JavaScript, TypeScript, Python, c#, Java </span>
             </li>
           </ol>
         </div>
