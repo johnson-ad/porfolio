@@ -13,6 +13,20 @@ const firebaseConfig = {
 };
 
  
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
-export const auth = getAuth(app);
+// const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);
+// export const auth = getAuth(app);
+
+ 
+// const firebaseConfig = {
+//   apiKey: "AIzaSyD8PDZClxx_7V4P0wUg-Sa9sq_Y8YpUyBo",
+//   authDomain: "johnson-ad.firebaseapp.com",
+//   projectId: "johnson-ad",
+//   storageBucket: "johnson-ad.appspot.com",
+//   messagingSenderId: "356725618195",
+//   appId: "1:356725618195:web:5c34d7a1a2c1078417b1e6",
+//   measurementId: "G-R5BE796MG6"
+// };
+
+// const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);
