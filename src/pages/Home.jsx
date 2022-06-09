@@ -11,9 +11,9 @@ function Home() {
           <h2>Hi, My Name is Johnson</h2>
           <div className="prompt">
             <p>A software developer with a passion for learning and creating.</p>            
-            <LinkedInIcon/>
-            <EmailIcon/>
-            <GithubIcon/>
+            <a href='https://www.linkedin.com/'><LinkedInIcon/></a>
+            <a href='https://mail.google.com/'><EmailIcon/></a>
+            <a href='https://github.com/johnson-ad'><GithubIcon/></a>
           </div>
         </div>
         <div className="skills">
@@ -35,6 +35,7 @@ function Home() {
             </li>
           </ol>
         </div>
+        <br/>         
     </div>
   )
 }
