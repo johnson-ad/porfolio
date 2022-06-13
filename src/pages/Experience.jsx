@@ -14,7 +14,7 @@ function Experience() {
         icon={<SchoolIcon/>}
         >
           <h3 className="vertical-timeline-element-title">
-            NIIT High School, DAKAR, Random State
+            NIIT High School, DAKAR 
           </h3>
           <p>Hign School Diploma</p>
 
@@ -26,7 +26,7 @@ function Experience() {
         icon={<SchoolIcon/>}
         >
           <h3 className="vertical-timeline-element-title">
-            ISI High School, DAKAR , Random State
+            ISI High School, DAKAR  
           </h3>
           <p>Hign School Diploma</p>
 
@@ -38,7 +38,7 @@ function Experience() {
         icon={<SchoolIcon/>}
         >
           <h3 className="vertical-timeline-element-title">
-            ISI High School, DAKAR , Random State
+            ISI High School, DAKAR  
           </h3>
           <p>Hign School Diploma</p>
 
