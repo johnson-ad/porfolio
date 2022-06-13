@@ -6,12 +6,11 @@
     text-align: center;
     width: 100%;
     height: calc(100vh - 100px);
-    background-color: #f00a0a;
     padding: 0;
     margin: 0;
 }
 
-.vertical-timeline-element--education{
+.vertical-timeline-element-education{
     background: rgba(255, 255, 255, 0.31);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
