@@ -10,7 +10,7 @@ function Home() {
         <div className="about">
           <h2>Hi, My Name is Johnson</h2>
           <div className="prompt">
-            <p>A software developer with a passion for learning and creating.</p>            
+            <p>A React developer junoir with a passion for learning and creating.</p>            
             <a href='https://www.linkedin.com/'><LinkedInIcon/></a>
             <a href='https://mail.google.com/'><EmailIcon/></a>
             <a href='https://github.com/johnson-ad'><GithubIcon/></a>
@@ -22,7 +22,7 @@ function Home() {
             <li className="item">
               <h2>Front-End</h2>
               <span>
-                NextJS, ReactJS, RxJS, Redux toolkit, React Native, HTML, CSS, Sass,  NPM, BootStrap, MateriaUI, Yarn, StyledComponents
+                ReactJS, NextJS, RxJS, React Native, Redux toolkit, HTML, CSS, Sass, NPM, BootStrap, MateriaUI, Yarn, StyledComponents
               </span>
             </li>
             <li className="item">
@@ -31,7 +31,7 @@ function Home() {
             </li>
             <li className="item">
               <h2> Languages </h2>
-              <span>JavaScript, TypeScript, Python, c#, Java </span>
+              <span>JavaScript, TypeScript, Python</span>
             </li>
           </ol>
         </div>
