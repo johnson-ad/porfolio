@@ -10,7 +10,10 @@ function Experience() {
     <div className='experience'>
      
       <VerticalTimeline lineColor ="#3e497a">
-        <VerticalTimelineElement className="vertical-timeline-element-education" date="2018 - 2019"
+
+        <VerticalTimelineElement 
+        className="vertical-timeline-element---education" 
+        date="2018 - 2019"
         iconStyle={{ background: '#3e497a', color: '#fff' }}
         icon={<SchoolIcon/>}
         >
@@ -20,10 +23,8 @@ function Experience() {
           <p>Bachelor Degree 1</p>
 
         </VerticalTimelineElement>
-      </VerticalTimeline>
-
-      <VerticalTimeline lineColor ="#3e497a">
-        <VerticalTimelineElement className="vertical-timeline-element-education" date="2020 - 2021"
+        
+        <VerticalTimelineElement className="vertical-timeline-element---education" date="2020 - 2021"
         iconStyle={{ background: '#3e497a', color: '#fff' }}
         icon={<SchoolIcon/>}
         >
@@ -33,10 +34,8 @@ function Experience() {
           <p>Bachelor Degree 2</p>
 
         </VerticalTimelineElement>
-      </VerticalTimeline>
-
-      <VerticalTimeline lineColor ="#3e497a">
-        <VerticalTimelineElement className="vertical-timeline-element-education" date="2021 - 2022"
+ 
+        <VerticalTimelineElement className="vertical-timeline-element---education" date="2021 - 2022"
         iconStyle={{ background: '#3e497a', color: '#fff' }}
         icon={<SchoolIcon/>}
         >
@@ -46,9 +45,7 @@ function Experience() {
           <p>Bachelor Degree 3</p>
 
         </VerticalTimelineElement>
-      </VerticalTimeline>
-
-      <VerticalTimeline lineColor ="#3e497a">
+     
         <VerticalTimelineElement className="vertical-timeline-element-education" date="2021 - 2022"
         iconStyle={{ background: '#3e497a', color: '#fff' }}
         icon={<WorkIcon/>}
@@ -59,8 +56,9 @@ function Experience() {
           <p>Helped the team lauch 2 major features by working both in the front end back end.</p>
 
         </VerticalTimelineElement>
-      </VerticalTimeline>   
-      
+
+      </VerticalTimeline>
+ 
     </div>
   )
 }
