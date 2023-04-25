@@ -1,11 +1,6 @@
 ![port](https://user-images.githubusercontent.com/83038351/204496988-fe936204-df6f-43d8-9d4a-e6df5df3f8bd.png)
 
 
-![nft8-removebg-preview](https://user-images.githubusercontent.com/83038351/234336884-30877f18-ae92-40d5-890e-8886201d5ef0.png)
-
-
-
-
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
